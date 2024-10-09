@@ -13,6 +13,20 @@ Systematic problem solving approach, coupled with a strong sense of
 ownership and drive.
 
 
+Linux
+Git
+SpringBoot / Node
+React
+Redis
+JWT
+Kafka
+ELK
+Java 8
+Collection Framework
+Noje Js CRUD Application
+Cashing
+Kafka
+Elastic Search 
 
 
 
@@ -295,3 +309,15 @@ analysis,etc.
 <!-- 
 c:; cd 'c:\Users\ANKIT\Documents\VScode\Certification'; git add .; git commit -a -m "additional commit 10 Oct 2024"; git push -u origin main;
  -->
+
+Networking / OutReach / Cold-Email
+
+Send Bulk Automated Emails:
+Phantombuster.com
+Apollo.io
+Hunter.io
+Instantly.ai
+Waalaxy.com
+Linkedin Validator
+
+
