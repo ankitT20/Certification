@@ -1,51 +1,30 @@
-App Development
-
-• Blockchain Voting System
-
-• Real-Time Language Translator
-
-• Virtual Event Platform
-
-• Personalized News Aggregator
-
 Java
-
 • Bug tracking system
-
 • Chatting application
-
 • Customer-Relationships manager
-
 • Email System
-
 • Advanced Sudoku Game
 
+App Development
+• Blockchain Voting System
+• Real-Time Language Translator
+• Virtual Event Platform
+• Personalized News Aggregator
+
 Web Development
-
 • E-Commerce
-
 • Management System
-
 • Chat Application
-
 • Online Food Delivery Page
 
 Machine Learning
-
 • Calories Burnt Prediction
-
-Stock Price Prediction
-
+• Stock Price Prediction
 • Climate Change
-
 Credit Card Fraud Detection
 
 Python
-
 • Face Detection
-
-Voice Recorder GUI
-
+• Voice Recorder GUI
 • File Sharing App
-
 • Replace Green Screen
