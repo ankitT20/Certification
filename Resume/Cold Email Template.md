@@ -1,5 +1,4 @@
 **Cold Email Template**  
-**@bzlearnin**
 
 Hey \[Recruiter's Name\],  
 What if I told you I could \[achieve specific goal\] for \[Company Name\] in \[timeframe\]? Intrigued? Let me explain.  

@@ -24,7 +24,7 @@ Cashing
 Elastic Search
 
 Noje Js CRUD Application
-
+AWS
 
 
 <!--  -->
@@ -329,3 +329,19 @@ Organized and executed a successful Google Cloud Study Jam event, resulting in a
 Collaborated with industry expert JKGunnink to secure speaking engagements for cloud computing events, resulting in increased student engagement by 40%.
 Led the founding of the Google Developer Student Club at the university, growing membership to over 100 active participants within the first six months.
 
+
+
+
+
+I hold a Bachelor of Technology Degree in Industrial Internet of Things from University School of Automation and Robotics, GGSIPU, New Delhi, and specialize as a **Java Developer**. With expertise in **Java 8**, **Spring Boot**, **AWS**, and **cloud computing**, I build scalable backend systems using **Kafka**, **Redis**, **ElasticSearch**, and **ELK**. I'm proficient in **Linux**, **Git**, and developing **Node.js CRUD applications** with **JWT** security. Skilled in both **Windows** and **Linux** environments, I help businesses optimize backend infrastructure and cloud deployments.
+
+
+
+I’m a **Java Developer** with expertise in **Java 8**, **Spring Boot**, and the **Collection Framework**, specializing in backend development and cloud solutions. I have extensive experience with **AWS** for deploying scalable applications, and I’m proficient in working with **Linux** environments and **Git** version control.
+
+My skill set includes building robust systems using **Kafka**, **Redis**, **ElasticSearch**, and **ELK** for real-time data processing and search capabilities. I also develop **Node.js CRUD applications** with **JWT** for secure authentication and use **React** for frontend integration. Additionally, I’m experienced in **caching** mechanisms to optimize performance.
+
+If you're looking for someone to improve your cloud infrastructure, backend systems, or application development, feel free to connect!
+
+
+### I hold a Bachelor of Technology Degree specialization in Industrial Internet of Things from University School of Automation and Robotics, GGSIPU, New Delhi, and I’m a **Java Developer** with expertise in **Java 8**, **Spring Boot**, and the **Collection Framework**, specializing in backend development and cloud solutions using **AWS**. I’m proficient in **Linux** and **Git** for managing environments and version control. My experience includes building scalable systems with **Kafka**, **Redis**, **ElasticSearch**, and **ELK** for data streaming, caching, and search capabilities. I also develop **Node.js** CRUD applications with **JWT** for secure authentication and integrate **React** for frontend solutions. I also have experience with virtualization technologies, **SQL**, **Python**, and Windows server administration. If you need assistance with backend development, cloud infrastructure, or application performance optimization, let's connect!  
