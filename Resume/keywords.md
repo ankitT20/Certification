@@ -1,21 +1,18 @@
 MAIN IMPORTANT KEYWORDS:
 
 Job Responsibilities :
-Develop Java based microservices that are production ready, highly
-automated, scalable and maintainable in an Agile environment.
-Develop microservices that support high traffic volumes and scale to
-meet the agreed upon business SLAs.
+Develop Java based microservices that are production ready, highly automated, scalable and maintainable in an Agile environment.
+Develop microservices that support high traffic volumes and scale to meet the agreed upon business SLAs.
 
 Skills & Competencies :
-Good command on Algorithms and data structures, OOAD, Client-server
-systems, distributed systems and multithreaded programming
-Systematic problem solving approach, coupled with a strong sense of
-ownership and drive.
+Good command on Algorithms and data structures, OOAD, Client-server systems, distributed systems and multithreaded programming 
+Systematic problem solving approach, coupled with a strong sense of ownership and drive.
 
 
 Linux
 Git
-SpringBoot / Node
+Spring Boot
+Node
 React
 Redis
 JWT
@@ -23,58 +20,37 @@ Kafka
 ELK
 Java 8
 Collection Framework
-Noje Js CRUD Application
 Cashing
-Kafka
-Elastic Search 
+Elastic Search
+
+Noje Js CRUD Application
 
 
 
 <!--  -->
 Other keywords:
-
 Software Engineering (70-80%)
-
 System Design
-
 • Cloud Platforms (AWS/Azure/GCP)
-
 API Development
-
 • Containerization (Docker)
-
 Version Control (Git)
-
 Orchestration (Kubernetes)
-
 Al (15-20%)
 Neural Networks
-
 NLP Jechniques
-
 Mattel Evaluation
 ML
-
 DL
-
 Testing & Debugging
-
 Deployment & DevOps
-
 Database Management
-
 • Security Best Practices
-
 • Data Pipelines (DE)
-
 • ETL Processes (DE)
-
 Big Data Technologies (DE)
-
 GenAl Specific (5-10%)
-
 • Prompt Engineering
-
 LLM Fine-tuning
 
 Skills & Competencies :
@@ -307,7 +283,7 @@ analysis,etc.
 
 
 <!-- 
-c:; cd 'c:\Users\ANKIT\Documents\VScode\Certification'; git add .; git commit -a -m "additional commit 10 Oct 2024"; git push -u origin main;
+c:; cd 'c:\Users\ANKIT\Documents\VScode\Certification'; git add .; git commit -a -m "additional commit 19 Oct 2024"; git push -u origin main;
  -->
 
 Networking / OutReach / Cold-Email
@@ -320,4 +296,36 @@ Instantly.ai
 Waalaxy.com
 Linkedin Validator
 
+
+
+
+
+
+
+
+
+====================================
+Conducted in-depth analysis of Nifty stocks and market indicators, resulting in the identification of key trends and opportunities for subscription sales growth.
+Utilized financial reporting and equity research skills to prepare comprehensive graphical insights on global markets, leading to a 15% increase in subscription sales.
+Excelled in conducting weekly assessments of Nifty constituents and news updates, contributing to a 20% boost in customer engagement levels.
+
+
+
+
+Enhanced customer engagement by revamping live information sections, leading to a 15% increase in subscription sales and retention rates.
+Analyzed and interpreted data on Nifty stocks to identify trends and opportunities, resulting in a 10% increase in successful investment decisions.
+Utilized equity research analysis skills to provide detailed financial reporting and stock market analysis, contributing to a 20% improvement in overall portfolio performance.
+
+
+
+
+Organized and executed a successful Google Cloud Study Jam event, resulting in achieving Tier 1 status and providing all 80 students with valuable goodies, including a Google Cloud certificate, bag, t-shirt, bottle, and stickers.
+Secured JKGunnink as a keynote speaker for multiple events, increasing attendance by 30% and enhancing the overall experience for participants.
+Led efforts to establish the Google Developer Student Club at the university, recruiting over 50 active members within the first semester of inception.
+
+
+
+Organized and executed a successful Google Cloud Study Jam event, resulting in achieving Tier 1 status and providing 80 students with valuable goodies, including Google Cloud certificates, bags, T-shirts, bottles, and stickers.
+Collaborated with industry expert JKGunnink to secure speaking engagements for cloud computing events, resulting in increased student engagement by 40%.
+Led the founding of the Google Developer Student Club at the university, growing membership to over 100 active participants within the first six months.
 
