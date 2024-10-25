@@ -20,7 +20,7 @@ Kafka
 ELK
 Java 8
 Collection Framework
-Cashing
+caching
 Elastic Search
 
 Noje Js CRUD Application
@@ -282,9 +282,6 @@ analysis,etc.
 5. Project management
 
 
-<!-- 
-c:; cd 'c:\Users\ANKIT\Documents\VScode\Certification'; git add .; git commit -a -m "additional commit 19 Oct 2024"; git push -u origin main;
- -->
 
 Networking / OutReach / Cold-Email
 
@@ -344,4 +341,13 @@ My skill set includes building robust systems using **Kafka**, **Redis**, **Elas
 If you're looking for someone to improve your cloud infrastructure, backend systems, or application development, feel free to connect!
 
 
-### I hold a Bachelor of Technology Degree specialization in Industrial Internet of Things from University School of Automation and Robotics, GGSIPU, New Delhi, and I’m a **Java Developer** with expertise in **Java 8**, **Spring Boot**, and the **Collection Framework**, specializing in backend development and cloud solutions using **AWS**. I’m proficient in **Linux** and **Git** for managing environments and version control. My experience includes building scalable systems with **Kafka**, **Redis**, **ElasticSearch**, and **ELK** for data streaming, caching, and search capabilities. I also develop **Node.js** CRUD applications with **JWT** for secure authentication and integrate **React** for frontend solutions. I also have experience with virtualization technologies, **SQL**, **Python**, and Windows server administration. If you need assistance with backend development, cloud infrastructure, or application performance optimization, let's connect!  
+I hold a Bachelor of Technology Degree specialization in Industrial Internet of Things from University School of Automation and Robotics, GGSIPU, New Delhi, and I’m a **Java Developer** with expertise in **Java 8**, **Spring Boot**, and the **Collection Framework**, specializing in backend development and cloud solutions using **AWS**. I’m proficient in **Linux** and **Git** for managing environments and version control. My experience includes building scalable systems with **Kafka**, **Redis**, **ElasticSearch**, and **ELK** for data streaming, caching, and search capabilities. I also develop **Node.js** CRUD applications with **JWT** for secure authentication and integrate **React** for frontend solutions. I also have experience with virtualization technologies, **SQL**, **Python**, and Windows server administration. If you need assistance with backend development, cloud infrastructure, or application performance optimization, let's connect!  
+
+• Established a robust system on AWS that supported real-time data updates and secure authentication, now utilized by over 50 team members, ensuring streamlined access and improved data integrity.
+
+Employed advanced data preprocessing techniques, including resizing and normalization of over 10,000 signature images using NumPy and OpenCV; enhanced dataset quality for improved model training outcomes in signature verification tasks.
+
+
+<!-- 
+c:; cd 'c:\Users\ANKIT\Documents\VScode\Certification'; git add .; git commit -a -m "additional commit 19 Oct 2024"; git push -u origin main;
+ -->
